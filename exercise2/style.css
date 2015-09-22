@@ -1,0 +1,7 @@
+body{background-color: #00A86B;}
+.container{width: 1200px; margin:0 auto;}
+h1{font-family: 'Arvo'sans-serif;font-weight: 700; font-size: 90px; color: white; line-height: 95px;}
+h3{font-family: 'Arvo'sans-serif;font-weight: 700; font-size: 36px; color: white; line-height: 41px;}
+img{max-width: 100%;}
+ol{font-family: 'Lato', sans-serif; font-size: 24px; color: #006743;}
+p{font-family: 'Lato', sans-serif; font-size: 30px; color: #006743;}
