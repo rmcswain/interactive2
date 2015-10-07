@@ -1,0 +1,25 @@
+body {
+	margin: 0px auto;
+	/*text-align: center;*/
+	background-color: #EEEEEE;
+	overflow-x: hidden;
+	height: 3000px;
+}
+
+#scoreboards {
+	display:inline-block;
+	width: 3000px;
+	position: fixed;
+}
+
+.score1 {
+	height:65px; 
+	width:114px;
+	border-left:1px solid #AAAAAA;
+	background-color: white;
+	display:inline-block;
+}
+
+.score1:last-child {
+	border-right:1px solid #AAAAAA;
+}
