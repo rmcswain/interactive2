@@ -1,11 +1,6 @@
-#zero {width:6190px;
-	line-height:240%;
-	position:top;
-}
+body {width: 7500px;}
 
-body {width: 6190px;}
-
-#one {width: 1000px;
+#one {width: 1200px;
 	height: 700px;
 	background-color:#00E676;
 	border-style: dashed;
@@ -16,7 +11,7 @@ body {width: 6190px;}
 	float:left;
 }
 
-#two {width: 1000px;
+#two {width: 1200px;
 	height: 700px;
 	background-color:#00E676;
 	border-style: dashed;
@@ -27,7 +22,7 @@ body {width: 6190px;}
 	float: left;
 }
 
-#three {width: 1000px;
+#three {width: 1200px;
 	height: 700px;
 	background-color:#00E676;
 	border-style: dashed;
@@ -38,7 +33,7 @@ body {width: 6190px;}
 	float:left;
 }
 
-#four {width: 1000px;
+#four {width: 1200px;
 	height: 700px;
 	background-color:#00E676;
 	border-style: dashed;
@@ -49,7 +44,7 @@ body {width: 6190px;}
 	float:left;
 }
 
-#five {width: 1000px;
+#five {width: 1200px;
 	height: 700px;
 	background-color:#00E676;
 	border-style: dashed;
@@ -60,7 +55,7 @@ body {width: 6190px;}
 	float:left;
 }
 
-#six {width: 1000px;
+#six {width: 1200px;
 	height: 700px;
 	background-color:#00E676;
 	border-style: dashed;
