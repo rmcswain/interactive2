@@ -1,14 +1,12 @@
-html {background-color:#00E676;}
+html {background-color:#FF1744;}
 
 body {background-color:#FFFFFF;
-	width:700px;
+	width:500px;
 	margin:auto;
 	margin-top: 70px;
 	font-family: Helvetica;
 	text-align: center;
 	border: 8px solid;
 }
-
-p {letter-spacing: 4px;}
 
 /*Creating an animation where the background changes from green to another color.*/

@@ -1,6 +1,6 @@
 html {background-color:#2196F3;}
 
-.textbox {width:400px;
+.textbox {width:500px;
 		border: 8px solid;
 		background-color:white;
 		margin:auto;
@@ -9,4 +9,4 @@ html {background-color:#2196F3;}
 		margin-top:1px;
 		font-family:Helvetica;}
 
-/*I want to create an animation where the boxes fly in from the top and bottom of the screan then bounce off each other into place.*/
+/*Creating an animation where the boxes fly in from the top and bottom of the screan then bounce off each other into place.*/
