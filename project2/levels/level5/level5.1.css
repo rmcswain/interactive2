@@ -13,6 +13,6 @@ body {width:560px;
 	text-align: center;
 	border: 8px solid;
 	animation-name:colorchange;
-	animation-duration: 90s;
+	animation-duration: 45s;
 	animation-iteration-count: infinite;
 }
