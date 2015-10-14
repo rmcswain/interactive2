@@ -1,66 +1,12 @@
-/*I want to add an animation to each div to look like sliding drawers but not sure how to implement at the moment*/
+html {background-color:#2196F3;}
 
-body{width:2500px;
-	font-family: Helvetica;}
+.textbox {width:400px;
+		border: 8px solid;
+		background-color:white;
+		margin:auto;
+		text-align:center;
+		padding:10px;
+		margin-top:1px;
+		font-family:Helvetica;}
 
-#textblock1 {height:75px;
-			width:400px;
-			float:left;
-			padding-left: 50px;
-			border-bottom: 2px solid;
-			border-right: 2px solid;}
-
-#container2b {height:75px;
-			width:100%;
-			float:left;}
-
-#textblock2 {height:75px;
-			width:400px;
-			float:left;
-			padding-left: 450px;
-			border-bottom: 2px solid;
-			border-right: 2px solid;}
-
-#container3b {height:75px;
-			width:100%;
-			float:left;}
-
-#textblock3 {height:75px;
-			width:400px;
-			float:left;
-			padding-left: 850px;
-			border-bottom: 2px solid;
-			border-right: 2px solid;}
-
-#container4b {height:75px;
-			width:100%;
-			float:left;}
-
-#textblock4 {height:75px;
-			width:400px;
-			float:left;
-			padding-left: 1250px;
-			border-bottom: 2px solid;
-			border-right: 2px solid;}
-
-#container5b {height:75px;
-			width:100%;
-			float:left;}
-
-#textblock5 {height:75px;
-			width:400px;
-			float:left;
-			padding-left: 1650px;
-			border-bottom: 2px solid;
-			border-right: 2px solid;}
-
-#container6b {height:75px;
-			width:100%;
-			float:left;}
-
-#textblock6 {height:75px;
-			width:400px;
-			float:left;
-			padding-left: 2050px;
-			border-bottom: 2px solid;
-			border-right: 2px solid;}
+/*I want to create an animation where the boxes fly in from the top and bottom of the screan then bounce off each other into place.*/
