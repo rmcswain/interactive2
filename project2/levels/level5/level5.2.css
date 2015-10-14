@@ -3,8 +3,7 @@
   }
   50% {transform: scale(.1);
     background-color: #000000;
-    border-radius: 100%;
-    transition-delay:4s;
+    border-radius: 100%; 
   }
   100% {transform: scale(1);
   	background-color:#FF1744;
