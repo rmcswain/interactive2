@@ -1,67 +1,39 @@
-body {width: 7500px;}
+* { box-sizing: border-box; }
 
-#one {width: 1200px;
-	height: 700px;
+html, body {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	width: 7500px;
+}
+
+.box {
+	width: 1200px;
+	height: 100%;
 	background-color:#00E676;
 	border-style: dashed;
 	border-width: 2px;
 	border-color: #00C853;
-	margin:3px;
 	padding-left:20px;
 	float:left;
 }
 
-#two {width: 1200px;
-	height: 700px;
-	background-color:#00E676;
-	border-style: dashed;
-	border-width: 2px;
-	border-color: #00C853;
-	margin:3px;
-	padding-left:20px;
-	float: left;
+#one {
 }
 
-#three {width: 1200px;
-	height: 700px;
-	background-color:#00E676;
-	border-style: dashed;
-	border-width: 2px;
-	border-color: #00C853;
-	margin:3px;
-	padding-left:20px;
-	float:left;
+#two {
 }
 
-#four {width: 1200px;
-	height: 700px;
-	background-color:#00E676;
-	border-style: dashed;
-	border-width: 2px;
-	border-color: #00C853;
-	margin:3px;
-	padding-left:20px;
-	float:left;
+#three {
 }
 
-#five {width: 1200px;
-	height: 700px;
-	background-color:#00E676;
-	border-style: dashed;
-	border-width: 2px;
-	border-color: #00C853;
-	margin:3px;
-	padding-left:20px;
-	float:left;
+#four {
 }
 
-#six {width: 1200px;
-	height: 700px;
-	background-color:#00E676;
-	border-style: dashed;
-	border-width: 2px;
-	border-color: #00C853;
-	margin:3px;
-	padding-left:20px;
-	float:left;
+#five {
+}
+
+#six {
 }

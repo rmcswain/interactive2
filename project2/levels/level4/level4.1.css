@@ -1,0 +1,12 @@
+html {background-color:#00E676;}
+
+body {background-color:#FFFFFF;
+	width:700px;
+	margin:auto;
+	margin-top: 70px;
+	font-family: Helvetica;
+	text-align: center;
+	border: 8px solid;
+}
+
+p {letter-spacing: 4px;}

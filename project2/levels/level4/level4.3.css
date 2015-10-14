@@ -1,0 +1,13 @@
+html{background-color: #FFC107;
+	text-align:center;}
+
+.textblocks{width:1000px;
+			line-height:100%;
+			border:8px double #3E2723;
+			padding:5px;
+			text-align: center;
+			margin:auto;
+			font-family:Playbill;
+			font-size: 24px;
+			color: #3E2723;
+			background-color: #FFFFFF;
