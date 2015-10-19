@@ -41,6 +41,10 @@ html {background-color:#2196F3;}
 		text-align:center;
 		padding:10px;
 		margin-top:1px;
+    font-family:Helvetica;
+    animation-name:bounceInUp;
+    animation-duration:1.5s;
+}
 
 .navigation{
   position: fixed;
@@ -99,6 +103,3 @@ html {background-color:#2196F3;}
   font-color: white;
   line-height:35px;
 }
-		font-family:Helvetica;
-		animation-name:bounceInUp;
-		animation-duration:1.5s;}
