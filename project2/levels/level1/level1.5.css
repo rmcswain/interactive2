@@ -1,26 +1,3 @@
-html {background-color: #FF1744;}
-
-body {font-family:Helvetica;
-width:5500px;}
-
-#one{padding-left: 550px;
-	font-size: 48px;}
-
-#two{padding-left: 450px;
-	font-size: 36px;}
-
-#three{padding-left: 350px;
-	font-size: 18px;}
-
-#four{padding-left: 250px;
-	font-size: 9px;}
-
-#five{padding-left: 150px;
-	font-size: 6px;}
-
-#six{padding-left: 50px;
-	font-size: 6px;}
-
 .navigation{
 	position: fixed;
 	bottom: 0;
