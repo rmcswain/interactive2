@@ -1,3 +1,7 @@
+html{
+	height: 960px;
+}
+
 body{width:2500px;}
 
 #textblock1 {height:75px;
