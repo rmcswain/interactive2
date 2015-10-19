@@ -6,10 +6,257 @@ body {
 	background: black;
 }
 
-.canvas {
+.canvas.red {
 	width: 900px;
 	height: 556px;
 	margin: 100px auto;
-	background: white;
+	background: #F44336;
 	position: relative;
 }
+
+.globe {
+	width: 250px;
+	height: 250px;
+	z-index: 6;
+	border-radius: 100%;
+	bottom: 100px;
+	left: 200px;
+	background:white;
+	position: absolute;
+}
+
+.pumpkin{
+	width: 125px;
+	height: 125px;
+	z-index: 4;
+	border-radius: 100%;
+	bottom:150px;
+	left: 355px;
+	background: #F57C00;
+	position: absolute;
+}
+
+.flowers{
+	width: 75px;
+	height: 300px;
+	z-index: 9;
+	left: 525px;
+	bottom: 75px;
+	background-color: white;
+	opacity: .5;
+	position: absolute;
+}
+
+.vase-bottom{
+	width: 75px;
+	height: 10px;
+	border-radius: 100%;
+	z-index: 7;
+	left: 525px;
+	bottom: 70px;
+	background-color: white;
+	/*opacity: .5;*/
+	position: absolute;
+}
+
+.stem1{
+	width: 5px;
+	height:400px;
+	z-index: 8;
+	left: 530px;
+	bottom: 76px;
+	background-color: #43A047;
+	position: absolute;
+}
+
+.stem2{
+	width: 5px;
+	height:400px;
+	z-index: 8;
+	left: 540px;
+	bottom: 76px;
+	background-color: #43A047;
+	position: absolute;
+}
+
+.stem3{
+	width: 5px;
+	height:400px;
+	z-index: 8;
+	left: 550px;
+	bottom: 76px;
+	background-color: #43A047;
+	position: absolute;
+}
+
+.pedal1{
+	width: 35px;
+	height: 20px;
+	border-radius: 100%;
+	z-index: 8;
+	left: 525px;
+	bottom: 465px;
+	background-color: #9C27B0;
+	border: 1px solid #4A148C;
+	position: absolute;
+}
+
+.pedal2{
+	width: 35px;
+	height: 20px;
+	border-radius: 100%;
+	z-index: 8;
+	left: 535px;
+	bottom: 465px;
+	background-color: #9C27B0;
+	border: 1px solid #4A148C;
+	position: absolute;
+}
+
+.pedal3{
+	width: 35px;
+	height: 20px;
+	border-radius: 100%;
+	z-index: 8;
+	left: 545px;
+	bottom: 465px;
+	background-color: #9C27B0;
+	border: 1px solid #4A148C;
+	position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+.canvas.mint{
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: #B9F6CA;
+	position: relative;
+}
+
+.canvas.mint .globe{
+	width: 250px;
+	height: 250px;
+	z-index: 4;
+	border-radius: 100%;
+	bottom: 100px;
+	left: 200px;
+	background:#F5F5F5;
+	position: absolute;
+}
+
+.reflection{
+	width: 225px;
+	height: 225px;
+	z-index: 6;
+	border-radius: 100%;
+	bottom: 118px;
+	left: 218px;
+	background: white;
+	position: absolute;
+}
+
+.reflection2{
+	width: 220px;
+	height: 220px;
+	z-index: 6;
+	border-radius: 100%;
+	bottom: 110px;
+	left: 210px;
+	background: #F5F5F5;
+	position: absolute;
+}
+
+.canvas.mint .pumpkin{
+	width: 125px;
+	height: 125px;
+	z-index: 8;
+	border-radius: 100%;
+	bottom:65px;
+	left: 310px;
+	background: #F57C00;
+	position: absolute;
+}
+
+.reflection3{
+	width: 100px;
+	height: 100px;
+	z-index: 9;
+	border-radius: 100%;
+	bottom: 82px;
+	left: 328px;
+	background: #FF9800;
+	position: absolute;
+}
+
+.reflection4{
+	width: 95px;
+	height: 95px;
+	z-index: 9;
+	border-radius: 100%;
+	bottom: 78px;
+	left: 322px;
+	background: #F57C00;
+	position: absolute;
+}
+
+.banana1{
+	width: 225px;
+	height: 225px;
+	border-radius: 100%;
+	z-index: 10;
+	bottom: 80px;
+	left: 400px;
+	background-color: #FFC107;
+	position: absolute;
+}
+
+.banana2{
+	width: 225px;
+	height: 225px;
+	border-radius: 100%;
+	z-index: 10;
+	bottom: 65px;
+	left: 410px;
+	background-color: #FDD835;
+	position: absolute;
+}
+
+.banana3{
+	width: 225px;
+	height: 225px;
+	border-radius: 100%;
+	z-index: 10;
+	bottom: 50px;
+	left: 420px;
+	background-color: #FFEB3B;
+	position: absolute;
+}
+
+.banana4{
+	width: 225px;
+	height: 225px;
+	border-radius: 100%;
+	z-index: 10;
+	bottom: 50px;
+	left: 420px;
+	background-color: #FFEB3B;
+	position: absolute;
+}
+
+
+
+
+
+
+
+
+
