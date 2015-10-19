@@ -16,7 +16,7 @@ p {font-family:"Onyx";
 	height: 50px;
 }
 
-.navcircle {
+.navcircle a{
 	width: 40px;
 	height: 40px;
 	border-radius: 100%;

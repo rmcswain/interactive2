@@ -13,13 +13,14 @@
 html {background-color:#FF1744;}
 
 .poem {
-	height:560px;
+	height:530px;
 	width:560px;
 	margin:auto;
 	margin-top: 70px;
 	font-family: Helvetica;
 	text-align: center;
 	border: 8px solid;
+	padding-top: 20px;
 	animation-name:stretch;
 	animation-duration: 1.5s;
 	animation-timing-function: ease-out;
@@ -35,7 +36,7 @@ html {background-color:#FF1744;}
 	height: 50px;
 }
 
-.navcircle {
+.navcircle a{
 	width: 40px;
 	height: 40px;
 	border-radius: 100%;
