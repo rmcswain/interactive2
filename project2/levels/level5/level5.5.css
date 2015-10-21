@@ -34,16 +34,83 @@
 
 html {background-color:#2196F3;}
 
-.textbox {width:500px;
-		border: 8px solid;
-		background-color:white;
-		margin:auto;
-		text-align:center;
-		padding:10px;
-		margin-top:1px;
-		font-family:Helvetica;
-		animation-name:bounceInUp;
-		animation-duration:1.5s;}
+#one{
+    width:500px;
+    border: 8px solid;
+    background-color:white;
+    margin:auto;
+    text-align:center;
+    padding:10px;
+    margin-top:1px;
+    font-family:Helvetica;
+    animation-name:bounceInUp;
+    animation-duration:.2s;
+}
+
+#two{
+  width:500px;
+    border: 8px solid;
+    background-color:white;
+    margin:auto;
+    text-align:center;
+    padding:10px;
+    margin-top:1px;
+    font-family:Helvetica;
+    animation-name:bounceInUp;
+    animation-duration:.3s;
+}
+
+#three{
+  width:500px;
+    border: 8px solid;
+    background-color:white;
+    margin:auto;
+    text-align:center;
+    padding:10px;
+    margin-top:1px;
+    font-family:Helvetica;
+    animation-name:bounceInUp;
+    animation-duration:.4s;
+}
+
+#four{
+  width:500px;
+    border: 8px solid;
+    background-color:white;
+    margin:auto;
+    text-align:center;
+    padding:10px;
+    margin-top:1px;
+    font-family:Helvetica;
+    animation-name:bounceInUp;
+    animation-duration:.5s;
+}
+
+#five{
+  width:500px;
+    border: 8px solid;
+    background-color:white;
+    margin:auto;
+    text-align:center;
+    padding:10px;
+    margin-top:1px;
+    font-family:Helvetica;
+    animation-name:bounceInUp;
+    animation-duration:.6s;
+}
+
+#six{
+    width:500px;
+    border: 8px solid;
+    background-color:white;
+    margin:auto;
+    text-align:center;
+    padding:10px;
+    margin-top:1px;
+    font-family:Helvetica;
+    animation-name:bounceInUp;
+    animation-duration:.7s;
+}
 
 .navigation{
   position: fixed;
