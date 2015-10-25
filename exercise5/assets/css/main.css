@@ -1,0 +1,153 @@
+html, body{
+	height: 100%;
+}
+
+body{
+	background: url('http://bit.ly/1MTTTH5');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.pigeon1{
+	font-family: Helvetica;
+	font-size: 48px;
+	font-weight: 800;
+	margin-top: 15px;
+	color: blue;
+}
+
+.cat1{
+	font-family: Helvetica;
+	font-size: 12px;
+	font-weight: 800;
+	margin-top: 15px;
+	color: white;
+}
+
+.pigeon2{
+	font-family: Helvetica;
+	font-size: 12px;
+	font-weight: 800;
+	margin-top: 15px;
+	color: white;
+}
+
+.cat2{
+	font-family: Helvetica;
+	font-size: 12px;
+	font-weight: 800;
+	margin-top: 15px;
+	color: white;
+}
+
+.pigeon{
+	height: 200px;
+	width: 200px;
+	border-radius: 100%;
+	border: 5px solid blue;
+	background: url('http://bit.ly/1OJnC7l');
+	background-size: 180%;
+	background-position: 35%;
+	position: fixed;
+	bottom: 225px;
+	right: 0px;
+	margin: 10px;
+}
+
+.grumpycat{
+	height: 200px;
+	width: 200px;
+	border-radius: 100%;
+	border: 5px solid red;
+	background: url('http://bit.ly/1LkFsaG');
+	background-size: 180%;
+	background-position: 10%;
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	margin: 10px;
+}
+
+@media screen and (max-width: 1024px) {
+
+.pigeon1{
+	font-family: Helvetica;
+	font-size: 48px;
+	font-weight: 800;
+	margin-top: 15px;
+	color: blue;
+}
+
+.cat1{
+	font-family: Helvetica;
+	font-size: 48px;
+	font-weight: 800;
+	margin-top: 15px;
+	color: red;
+}
+
+}
+
+@media screen and (max-width: 768px) {
+
+.pigeon1{
+	font-family: Helvetica;
+	font-size: 48px;
+	font-weight: 800;
+	margin-top: 15px;
+	color: blue;
+}
+
+.cat1{
+	font-family: Helvetica;
+	font-size: 48px;
+	font-weight: 800;
+	margin-top: 15px;
+	color: red;
+}
+
+.pigeon2{
+	font-family: Helvetica;
+	font-size: 48px;
+	font-weight: 800;
+	margin-top: 15px;
+	color: blue;
+}
+
+}
+
+@media screen and (max-width: 650px) {
+
+.pigeon1{
+	font-family: Helvetica;
+	font-size: 24px;
+	font-weight: 800;
+	margin-top: 15px;
+	color: blue;
+}
+
+.cat1{
+	font-family: Helvetica;
+	font-size: 24px;
+	font-weight: 800;
+	margin-top: 15px;
+	color: red;
+}
+
+.pigeon2{
+	font-family: Helvetica;
+	font-size: 24px;
+	font-weight: 800;
+	margin-top: 15px;
+	color: blue;
+}
+
+.cat2{
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: 800;
+	margin-top: 15px;
+	color: red;
+}
+
+}
