@@ -65,6 +65,10 @@ body {
     cursor: pointer;
 }
 
+#toggle_button:hover{
+    background-color: white;
+}
+
 .navigation_area {
     position: absolute;
     top: 200px;
